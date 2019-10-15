@@ -4,5 +4,6 @@
 void main()
 {
 printf("HELLO WORLD");
+printf("HELLO MAHEK I AM VIDIT");
 grtch();
 }
